@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xueyue/Desktop/Study/CPPTrain/ConvertStringToVector/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+
